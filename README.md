@@ -2,9 +2,15 @@
 
 A Quasar Framework app
 
+## USE NODE v10
+```bash
+nvm use v10
+```
+
+
 ## Install Quasar CLI
 ```bash
-yarn global add @quasar/cli
+npm install -g @quasar/cli
 ```
 
 ## Install the dependencies
